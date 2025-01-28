@@ -20,7 +20,7 @@ def test_convert_graph_three_edges():
     #Arrange
     edge_list = [
         [1,2],
-        [2,3],
+        [1,3],
         [4,2]
     ]
 
