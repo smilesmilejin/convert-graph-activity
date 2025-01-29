@@ -101,7 +101,7 @@ Summary of one-time activity setup:
    $ deactivate
    ```
 
-## Live Code
+## Classroom Activity
 
 ### Convert Graph
 Problem Statement:
